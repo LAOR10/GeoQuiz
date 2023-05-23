@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_Jalisco">Guadalajara es la capital de jalisco.</string>
+    <string name="question_Ameca">Ameca se encuentra fuera de Jalisco.</string>
+    <string name="question_Zacatecas">Zacatecas no tiene capital.</string>
+    <string name="question_Tlaxcala">Tlaxcala es el estado mas grande de Mexico.</string>
+    <string name="question_Villa">En Villa Corona solo hay 1 balneario</string>
+    <string name="question_Estipac">Estipac es mas Grande que el Tecuan.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Anterior</string>
+    <string name="warnin_text">¿Estás seguro de que quieres hacer esto?</string>
+    <string name="show_answer_button">Mostrar respuesta</string>
+    <string name="cheat_button">¡Hacer trampa!</string>
+    <string name="judgment_toast">Hacer trampa está mal.</string>
+
+</resources>
